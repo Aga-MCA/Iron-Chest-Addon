@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"aga_iron_chest:netherite_chest"},"tags":["crafting_table","aga"],"pattern":["GGG","ICI","GGG"],"key":{"C":{"item":"aga_iron_chest:diamond_chest"},"G":{"item":"minecraft:glass"},"I":{"item":"minecraft:netherite_ingot"}},"result":{"item":"aga_iron_chest:netherite_chest"}}}

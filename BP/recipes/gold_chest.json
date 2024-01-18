@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"aga_iron_chest:gold_chest"},"tags":["crafting_table","aga"],"pattern":["III","ICI","III"],"key":{"C":{"item":"aga_iron_chest:iron_chest"},"I":{"item":"minecraft:gold_ingot"}},"result":{"item":"aga_iron_chest:golden_chest"}}}
