@@ -1,7 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Cofre de Tierra
 tile.aga_iron_chest:iron_chest.name=Cofre de Hierro
 tile.aga_iron_chest:golden_chest.name=Cofre de Oro
 tile.aga_iron_chest:diamond_chest.name=Cofre de Diamante
-tile.aga_iron_chest:glass_chest.name=Cofre de Cristal
+tile.aga_iron_chest:crystal_chest.name=Cofre de Cristal
 tile.aga_iron_chest:copper_chest.name=Cofre de Cobre
 tile.aga_iron_chest:netherite_chest.name=Cofre de Netherita
 tile.aga_iron_chest:obsidian_chest.name=Cofre de Obsidiana
