@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=ziemna skrzynia
+tile.aga_iron_chest:copper_chest.name=Miedziana skrzynia
+tile.aga_iron_chest:iron_chest.name=Żelazna skrzynia
+tile.aga_iron_chest:golden_chest.name=Złota skrzynia
+tile.aga_iron_chest:diamond_chest.name=Diamentowa skrzynia
+tile.aga_iron_chest:crystal_chest.name=Kryształowa skrzynia
+tile.aga_iron_chest:obsidian_chest.name=Obsydianowa skrzynia
+tile.aga_iron_chest:netherite_chest.name=Netherytowa skrzynia

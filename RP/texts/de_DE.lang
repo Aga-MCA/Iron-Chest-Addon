@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Erdetruhe
+tile.aga_iron_chest:iron_chest.name=Eisentruhe
+tile.aga_iron_chest:golden_chest.name=Goldenetruhe
+tile.aga_iron_chest:diamond_chest.name=Diamanttruhe
+tile.aga_iron_chest:crystal_chest.name=Glastruhe
+tile.aga_iron_chest:copper_chest.name=Kupfertruhe
+tile.aga_iron_chest:netherite_chest.name=Netherit-Truhe
+tile.aga_iron_chest:obsidian_chest.name=Obsidiantruhe

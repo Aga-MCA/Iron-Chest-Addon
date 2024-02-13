@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Aarde kist
+tile.aga_iron_chest:copper_chest.name=Koperen kist
+tile.aga_iron_chest:iron_chest.name=IJzeren kist
+tile.aga_iron_chest:golden_chest.name=Gouden kist
+tile.aga_iron_chest:diamond_chest.name=Diamenten kist
+tile.aga_iron_chest:crystal_chest.name=Glazen kist
+tile.aga_iron_chest:obsidian_chest.name=Vuurvaste kist
+tile.aga_iron_chest:netherite_chest.name=Netherieten kist

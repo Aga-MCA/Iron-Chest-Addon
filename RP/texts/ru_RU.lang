@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Грязевой сундук
+tile.aga_iron_chest:copper_chest.name=Медный сундук
+tile.aga_iron_chest:iron_chest.name=Железный сундук
+tile.aga_iron_chest:golden_chest.name=Золотой сундук
+tile.aga_iron_chest:diamond_chest.name=Алмазный сундук
+tile.aga_iron_chest:crystal_chest.name=Хрустальный сундук
+tile.aga_iron_chest:obsidian_chest.name=Обсидиановый сундук
+tile.aga_iron_chest:netherite_chest.name=Незеритовый сундук

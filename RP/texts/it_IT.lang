@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Baule di terra
+tile.aga_iron_chest:iron_chest.name=Baule di ferro
+tile.aga_iron_chest:golden_chest.name=Baule d'oro
+tile.aga_iron_chest:diamond_chest.name=Baule di diamante
+tile.aga_iron_chest:crystal_chest.name=Baule di vetro
+tile.aga_iron_chest:copper_chest.name=Baule di rame
+tile.aga_iron_chest:netherite_chest.name=Baule di netherita
+tile.aga_iron_chest:obsidian_chest.name=Baule d'ossidiana

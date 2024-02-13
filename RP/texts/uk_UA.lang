@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=ЗемлянаСкриня
+tile.aga_iron_chest:copper_chest.name=Мідна скриня
+tile.aga_iron_chest:iron_chest.name=Залізна скриня
+tile.aga_iron_chest:golden_chest.name=Золота скриня
+tile.aga_iron_chest:diamond_chest.name=Діамантова скриня
+tile.aga_iron_chest:crystal_chest.name=Кришталева скриня
+tile.aga_iron_chest:obsidian_chest.name=Обсидіанова скриня
+tile.aga_iron_chest:netherite_chest.name=нетеритова скриня

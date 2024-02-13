@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Hlínový Truhla
+tile.aga_iron_chest:copper_chest.name=Měděný Truhla
+tile.aga_iron_chest:iron_chest.name=Železný Truhla
+tile.aga_iron_chest:golden_chest.name=Zlatý Truhla
+tile.aga_iron_chest:diamond_chest.name=Diamantový Truhla
+tile.aga_iron_chest:crystal_chest.name=Skleněná Truhla
+tile.aga_iron_chest:obsidian_chest.name=Obsidiánová Truhla
+tile.aga_iron_chest:netherite_chest.name=Netheritu Truhla

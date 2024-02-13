@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Peti Tanah
+tile.aga_iron_chest:copper_chest.name=Peti Tembaga
+tile.aga_iron_chest:iron_chest.name=Peti Besi
+tile.aga_iron_chest:golden_chest.name=Peti Emas
+tile.aga_iron_chest:diamond_chest.name=Peti Berlian
+tile.aga_iron_chest:crystal_chest.name=Peti Kaca
+tile.aga_iron_chest:obsidian_chest.name=Peti Obsidian
+tile.aga_iron_chest:netherite_chest.name=Peti Netherite

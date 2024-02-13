@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Coffre de terre
+tile.aga_iron_chest:copper_chest.name=Coffre de cuivre
+tile.aga_iron_chest:iron_chest.name=Coffre de fer
+tile.aga_iron_chest:golden_chest.name=Coffre d'or
+tile.aga_iron_chest:diamond_chest.name=Coffre de diamant
+tile.aga_iron_chest:crystal_chest.name=Coffre de verre
+tile.aga_iron_chest:obsidian_chest.name=Coffre d'obsidenne
+tile.aga_iron_chest:netherite_chest.name=Coffre de netherite

@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=Baú de Terra
+tile.aga_iron_chest:iron_chest.name=Baú de Ferro
+tile.aga_iron_chest:golden_chest.name=Baú de Ouro
+tile.aga_iron_chest:diamond_chest.name=Baú de Diamante
+tile.aga_iron_chest:crystal_chest.name=Baú de Vidro
+tile.aga_iron_chest:copper_chest.name=Baú de Cobre
+tile.aga_iron_chest:netherite_chest.name=Baú de Nether
+tile.aga_iron_chest:obsidian_chest.name=Baú de Obsidiana

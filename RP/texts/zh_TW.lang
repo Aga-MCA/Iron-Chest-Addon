@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=泥箱子
+tile.aga_iron_chest:copper_chest.name=銅箱
+tile.aga_iron_chest:iron_chest.name=鐵箱
+tile.aga_iron_chest:golden_chest.name=金箱
+tile.aga_iron_chest:diamond_chest.name=鑽石箱
+tile.aga_iron_chest:crystal_chest.name=水晶箱
+tile.aga_iron_chest:obsidian_chest.name=黑曜石箱
+tile.aga_iron_chest:netherite_chest.name=下界合金宝箱

@@ -1,0 +1,8 @@
+tile.aga_iron_chest:dirt_chest.name=흙 상자
+tile.aga_iron_chest:copper_chest.name=구리 상자
+tile.aga_iron_chest:iron_chest.name=철 상자
+tile.aga_iron_chest:golden_chest.name=금 상자
+tile.aga_iron_chest:diamond_chest.name=다이아몬드 상자
+tile.aga_iron_chest:crystal_chest.name=수정 상자
+tile.aga_iron_chest:obsidian_chest.name=흑요석 상자
+tile.aga_iron_chest:netherite_chest.name=네더라이트 상자
