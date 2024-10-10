@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shapeless":{"description":{"identifier":"aga_iron_chest:diamond_to_netherite_chest_upgrade"},"tags":["crafting_table"],"ingredients":[{"item":"minecraft:diamond"},{"item":"minecraft:netherite_ingot"}],"result":{"item":"aga_iron_chest:diamond_to_netherite_chest_upgrade"},"unlock":[{"item":"minecraft:netherite_ingot"}],"priority":1}}

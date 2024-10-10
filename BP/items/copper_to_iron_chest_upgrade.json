@@ -1,0 +1,1 @@
+{"format_version":"1.21.0","minecraft:item":{"description":{"identifier":"aga_iron_chest:copper_to_iron_chest_upgrade","menu_category":{"category":"items"}},"components":{"minecraft:custom_components":["aga_iron_chest:upgrade"],"minecraft:icon":"copper_iron_upgrade"}}}

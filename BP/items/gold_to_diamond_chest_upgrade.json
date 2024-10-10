@@ -1,0 +1,1 @@
+{"format_version":"1.21.0","minecraft:item":{"description":{"identifier":"aga_iron_chest:gold_to_diamond_chest_upgrade","menu_category":{"category":"items"}},"components":{"minecraft:custom_components":["aga_iron_chest:upgrade"],"minecraft:icon":"gold_diamond_upgrade"}}}
