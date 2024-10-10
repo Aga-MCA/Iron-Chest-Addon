@@ -6,3 +6,12 @@ tile.aga_iron_chest:diamond_chest.name=Діамантова скриня
 tile.aga_iron_chest:crystal_chest.name=Кришталева скриня
 tile.aga_iron_chest:obsidian_chest.name=Обсидіанова скриня
 tile.aga_iron_chest:netherite_chest.name=нетеритова скриня
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Покращення скрині з залізної до золотої
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Покращення скрині з золотої до діамантової
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Покращення скрині з мідної до залізної
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Покращення скрині з діамантової до кришталевої
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Покращення скрині з дерев'яної до залізної
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Покращення скрині з дерев'яної до мідної
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Покращення скрині з діамантової до обсидіанової
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Покращення скрині з діамантової до нетеритової

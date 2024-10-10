@@ -6,3 +6,12 @@ tile.aga_iron_chest:diamond_chest.name=鑽石箱
 tile.aga_iron_chest:crystal_chest.name=水晶箱
 tile.aga_iron_chest:obsidian_chest.name=黑曜石箱
 tile.aga_iron_chest:netherite_chest.name=下界合金宝箱
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=鐵箱升級成金箱
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=金箱升級成鑽石箱
+item.aga_iron_chest:copper_to_iron_chest_upgrade=銅箱升級成鐵箱
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=鑽石箱升級成水晶箱
+item.aga_iron_chest:wood_to_iron_chest_upgrade=木箱升級成鐵箱
+item.aga_iron_chest:wood_to_copper_chest_upgrade=木箱升級成銅箱
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=鑽石箱升級成黑曜石箱
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=鑽石箱升級成下界合金宝箱

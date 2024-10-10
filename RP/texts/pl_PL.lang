@@ -6,3 +6,13 @@ tile.aga_iron_chest:diamond_chest.name=Diamentowa skrzynia
 tile.aga_iron_chest:crystal_chest.name=Kryształowa skrzynia
 tile.aga_iron_chest:obsidian_chest.name=Obsydianowa skrzynia
 tile.aga_iron_chest:netherite_chest.name=Netherytowa skrzynia
+
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Ulepszenie żelaznej skrzyni na złotą
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Ulepszenie złotej skrzyni na diamentową
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Ulepszenie miedzianej skrzyni na żelazną
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Ulepszenie diamentowej skrzyni na kryształową
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Ulepszenie drewnianej skrzyni na żelazną
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Ulepszenie drewnianej skrzyni na miedzianą
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Ulepszenie diamentowej skrzyni na obsydianową
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Ulepszenie diamentowej skrzyni na Netherytowa

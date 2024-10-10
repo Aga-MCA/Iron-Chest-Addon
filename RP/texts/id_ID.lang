@@ -6,3 +6,12 @@ tile.aga_iron_chest:diamond_chest.name=Peti Berlian
 tile.aga_iron_chest:crystal_chest.name=Peti Kaca
 tile.aga_iron_chest:obsidian_chest.name=Peti Obsidian
 tile.aga_iron_chest:netherite_chest.name=Peti Netherite
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Meningkatkan: Besi > Emas
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Meningkatkan: Emas > Berlian
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Meningkatkan: Tembaga > Besi
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Meningkatkan: Berlian > Kaca
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Meningkatkan: Kayu > Besi
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Meningkatkan: Kayu > Tembaga
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Meningkatkan: Berlian > Obsidian
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Meningkatkan: Berlian > Netherite

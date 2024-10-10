@@ -6,3 +6,12 @@ tile.aga_iron_chest:diamond_chest.name=Diamantový Truhla
 tile.aga_iron_chest:crystal_chest.name=Skleněná Truhla
 tile.aga_iron_chest:obsidian_chest.name=Obsidiánová Truhla
 tile.aga_iron_chest:netherite_chest.name=Netheritu Truhla
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Upgrade: Železný > Zlatý
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Upgrade: Zlatý > Diamantový
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Upgrade: Měděný > Železný
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Upgrade: Diamantový > Skleněná
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Upgrade: dřevo > Železný
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Upgrade: dřevo > Měděný
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Upgrade: Diamantový > Obsidiánová
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Upgrade: Diamantový > Netheritu

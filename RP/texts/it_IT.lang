@@ -6,3 +6,12 @@ tile.aga_iron_chest:crystal_chest.name=Baule di vetro
 tile.aga_iron_chest:copper_chest.name=Baule di rame
 tile.aga_iron_chest:netherite_chest.name=Baule di netherita
 tile.aga_iron_chest:obsidian_chest.name=Baule d'ossidiana
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Miglioramento da Baule di Ferro a Baule d'Oro
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Miglioramento da Baule d'Oro a Baule di Diamante
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Miglioramento da Baule di Rame a Baule di Ferro
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Miglioramento da Baule di Diamante a Baule di Cristallo
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Miglioramento da Baule di Legno a Baule di Ferro
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Miglioramento da Baule di Legno a Baule di Rame
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Miglioramento da Baule di Diamante a Baule di Ossidiana
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Miglioramento da Baule di Diamante a Baule di netherite

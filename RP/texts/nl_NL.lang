@@ -6,3 +6,12 @@ tile.aga_iron_chest:diamond_chest.name=Diamenten kist
 tile.aga_iron_chest:crystal_chest.name=Glazen kist
 tile.aga_iron_chest:obsidian_chest.name=Vuurvaste kist
 tile.aga_iron_chest:netherite_chest.name=Netherieten kist
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Kistverbeteraar (ijzer naar goud)
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Kistverbeteraar (goud naar diamant)
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Kistverbeteraar (koper naar ijzer)
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Kistverbeteraar (diamant naar glas)
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Kistverbeteraar (hout naar ijzer)
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Kistverbeteraar (hout naar koper)
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Kistverbeteraar (diamant naar obsidiaan)
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Kistverbeteraar (diamant naar netherieten kist)

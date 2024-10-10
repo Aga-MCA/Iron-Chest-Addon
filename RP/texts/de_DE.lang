@@ -6,3 +6,12 @@ tile.aga_iron_chest:crystal_chest.name=Glastruhe
 tile.aga_iron_chest:copper_chest.name=Kupfertruhe
 tile.aga_iron_chest:netherite_chest.name=Netherit-Truhe
 tile.aga_iron_chest:obsidian_chest.name=Obsidiantruhe
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Upgrade: Eisen zu Goldtruhe
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Upgrade: Gold zu Diamanttruhe
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Upgrade: Kupfer zu Eisentruhe
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Upgrade: Diamant zu Kristalltruhe
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Upgrade: Holz zu Eisentruhe
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Upgrade: Holz zu Kupfertruhe
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Upgrade: Diamant zu Obsidiantruhe
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Upgrade: Diamant zu Netherit-Truhe

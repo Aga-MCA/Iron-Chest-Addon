@@ -6,3 +6,12 @@ tile.aga_iron_chest:crystal_chest.name=Baú do Vidro
 tile.aga_iron_chest:copper_chest.name=Baú do Cobre
 tile.aga_iron_chest:netherite_chest.name=Baú do Netherita
 tile.aga_iron_chest:obsidian_chest.name=Baú do Obsidiana
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Melhoria de Baú de Ferro para Ouro
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Melhoria de Baú de Ouro para Diamante
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Melhoria de Baú de Cobre para Ferro
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Melhoria de Baú de Diamante para Cristal
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Melhoria de Baú de Madeira para Ferro
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Melhoria de Baú de Madeira para Cobre
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Melhoria de Baú de Diamante para Obsidiana
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Melhoria de Baú de Diamante para Netherita

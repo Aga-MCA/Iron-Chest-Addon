@@ -6,3 +6,12 @@ tile.aga_iron_chest:diamond_chest.name=Алмазный сундук
 tile.aga_iron_chest:crystal_chest.name=Хрустальный сундук
 tile.aga_iron_chest:obsidian_chest.name=Обсидиановый сундук
 tile.aga_iron_chest:netherite_chest.name=Незеритовый сундук
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Улучшение сундука: С железного до золотого
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Улучшение сундука: С золотого до алмазного
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Улучшение сундука: С медного до железного
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Улучшение сундука: С алмазного до хрустального
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Улучшение сундука: С деревянного до железного
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Улучшение сундука: С деревянного до медного
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Улучшение сундука: С алмазного до обсидианового
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Улучшение сундука: С алмазного до Незеритового

@@ -6,3 +6,12 @@ tile.aga_iron_chest:diamond_chest.name=Coffre de diamant
 tile.aga_iron_chest:crystal_chest.name=Coffre de verre
 tile.aga_iron_chest:obsidian_chest.name=Coffre d'obsidenne
 tile.aga_iron_chest:netherite_chest.name=Coffre de netherite
+
+item.aga_iron_chest:iron_to_gold_chest_upgrade=Amélioration Fer à Or
+item.aga_iron_chest:gold_to_diamond_chest_upgrade=Amélioration Or à Diamant
+item.aga_iron_chest:copper_to_iron_chest_upgrade=Amélioration Cuivre à Fer
+item.aga_iron_chest:diamond_to_crystal_chest_upgrade=Amélioration Diamant à Cristal
+item.aga_iron_chest:wood_to_iron_chest_upgrade=Amélioration Bois à Fer
+item.aga_iron_chest:wood_to_copper_chest_upgrade=Amélioration Bois à Cuivre
+item.aga_iron_chest:diamond_to_obsidian_chest_upgrade=Amélioration Diamant à Obsidienne
+item.aga_iron_chest:diamond_to_netherite_chest_upgrade=Amélioration Diamant à Netherite
